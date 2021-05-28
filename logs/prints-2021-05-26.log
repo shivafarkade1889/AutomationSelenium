@@ -1,0 +1,7 @@
+17:04:55.436 [main] INFO  Academy.HomePageTest - Browser hit the gome URL
+17:04:55.540 [main] INFO  Academy.HomePageTest - Required deatisl are displayed on landing page
+17:04:55.635 [main] INFO  Academy.HomePageTest - Menu Icon is displayed
+17:04:56.459 [main] INFO  Academy.HomePageTest - Browser is closed
+17:04:58.189 [main] INFO  Academy.HomePageTest - Browser Driver is initalised
+17:04:58.941 [main] INFO  Academy.HomePageTest - Test data grab succefully
+17:05:02.541 [main] INFO  Academy.HomePageTest - Test data entered in userName filed

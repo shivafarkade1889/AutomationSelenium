@@ -1,0 +1,6 @@
+16:23:33.535 [main] INFO  Academy.HomePageTest - Test data grab succefully
+16:23:35.829 [main] INFO  Academy.HomePageTest - Test data entered in userName filed
+16:23:35.947 [main] INFO  Academy.HomePageTest - Test data entered in password filed
+16:23:36.302 [main] INFO  Academy.HomePageTest - User able to click on Login button
+16:23:36.431 [main] INFO  Academy.HomePageTest - Text has been compared succefully
+16:23:37.229 [main] INFO  Academy.HomePageTest - Browser is closed
