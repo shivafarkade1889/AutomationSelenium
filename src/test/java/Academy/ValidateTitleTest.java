@@ -24,6 +24,8 @@ public class ValidateTitleTest extends base {
 		log.info("Browser driver is initalised");
 		driver.get(prop.getProperty("url"));
 		log.info("Browser hit the gome URL");
+		log.info("Browser hit the gome URL 1");
+		log.info("Browser hit the gome URL 2");
 	}
 
 	@Test
