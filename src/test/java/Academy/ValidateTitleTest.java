@@ -26,6 +26,9 @@ public class ValidateTitleTest extends base {
 		log.info("Browser hit the gome URL");
 		log.info("Browser hit the gome URL 1");
 		log.info("Browser hit the gome URL 2");
+		log.info("Browser hit the gome URL 3");
+		log.info("Browser hit the gome URL 4");
+		log.info("Browser hit the gome URL 5");
 	}
 
 	@Test
